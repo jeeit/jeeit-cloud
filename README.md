@@ -6,7 +6,7 @@ JeeIT 致力于帮助您快速的搭建企业级微服务生态体系。JeeIT �
 
 JeeIT 帮助您更敏捷和容易地构建、交付和管理微服务平台。 JeeIT 是构建以“服务”为中心的现代应用架构的服务脚手架。
 
-## 什么是 JeeIT？
+## 
 服务（Service）是 JeeIT 世界的一等公民。JeeIT 几乎构建了所有主流类型的“服务”的架构和管理：
 * 网关服务：gateway-server
 * 权限服务：oauth-server
