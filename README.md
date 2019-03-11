@@ -94,4 +94,4 @@ jeeit
 
 
 ## 下一步
-继续阅读 [快速开始](http://localhost:8080/zh-cn/docs/quick/quick-start.html) 以快速上手 JeeIT。
+继续阅读 [快速开始](#) 以快速上手 JeeIT。
